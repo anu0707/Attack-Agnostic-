@@ -8,7 +8,7 @@ This repository provides an attack-agnoistic framework by utlizing two modules f
 First, clone the repository locally
 
 ```bash
-git clone https://github.com/shilpac131/AttackAgnostic.git
+git clone https://github.com/anu0707/AttackAgnostic-.git
 cd AttackAgnostic
 ```
 
