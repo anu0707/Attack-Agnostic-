@@ -1,6 +1,6 @@
 # Speaker Aware Deepfake Detectors
 
-The code in this repository is the official implementation of the paper "Beyond Attacks: Advancing Fake Speech Detection with Attack-Agnostic Method" accepted at *INTERSPEECH 2025*. The link to the paper will be made available soon.
+The code in this repository is the official implementation of the paper "Beyond Attacks: Advancing Fake Speech Detection with Attack-Agnostic Method" accepted at *INTERSPEECH 2025*. 
 
 This repository provides an attack-agnoistic framework by utlizing two modules for detecting speech deepfakes.
 
